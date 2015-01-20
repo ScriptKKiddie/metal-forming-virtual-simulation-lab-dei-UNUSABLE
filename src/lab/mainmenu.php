@@ -74,5 +74,3 @@
 <li><a href="feedback.php">Feedback</a></li>
 <li><a href="contributors.php">Contributors</a></li>
 <li><a href="Reference.php">References</a></li>
-<li><a href="#" title="Workshops Held">Workshops</a></li>
-

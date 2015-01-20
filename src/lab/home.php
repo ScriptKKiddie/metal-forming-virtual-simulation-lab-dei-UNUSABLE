@@ -96,8 +96,7 @@ cabs/flash/swflash.cab#version=6,0,40,0" height="180" width="320" id="mymovienam
 <param name="bgcolor" value="#ffffff" /> 
 <embed src="Home.swf" quality="high" bgcolor="#ffffff" height="180" width="320"
 name="mymoviename" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"> 
-</embed></object> 
-<center style="Background:#FF00FF; color:#FFFFFF;">Updated on 7-01-2015</center></td></tr></table>
+</embed></object></td></tr></table>
 <?php
  	//Opening file to get counter value
 	$fp = fopen ("counter.txt", "r");
